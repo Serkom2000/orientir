@@ -14,7 +14,7 @@
 
 ## 📚 Материалы
 
-- - [Документация]((https://drive.google.com/drive/folders/1EBsTP-q1SbxnTxcNimr7OtmbBELNIYJq?usp=sharing)) (гугл диск с документацией)
+- [Документация]([https://example.com/docs](https://drive.google.com/drive/folders/1EBsTP-q1SbxnTxcNimr7OtmbBELNIYJq?usp=sharing)) (гугл диск с документацией)
 
 
 ## 📅 Ход работы
