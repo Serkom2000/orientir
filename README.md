@@ -1,4 +1,5 @@
 # 📌 Ориентир Плюс
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/34f4e0ec-d763-4e62-a882-eaf9e2091e5a" />
 
 ## 📝 Описание
 
